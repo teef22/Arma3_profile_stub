@@ -283,7 +283,7 @@ keySetTeamYellow[]={487784510,-1659699138};
 keySetTeamWhite[]={487784511,-1659699137};
 keyNetworkStats[]={25};
 keyNetworkPlayers[]={-1659699175};
-keySelectAll[]={940769282,83};
+keySelectAll[]={83,50};
 keyTurbo[]={42};
 keyTurboToggle[]={};
 keyVehicleTurbo[]={42};
@@ -316,7 +316,7 @@ keyMenuSelect[]={};
 keyNavigateMenu[]={14};
 keyCloseContext[]={65665};
 keyForceCommandingMode[]={};
-keySwitchCommand[]={487784505,221};
+keySwitchCommand[]={907214898};
 keyHeliUp[]={42};
 keyHeliDown[]={44};
 keyHeliLeft[]={};
@@ -381,12 +381,12 @@ keyCarAimUp[]={1048578};
 keyCarAimDown[]={1048579};
 keyCarAimLeft[]={1048576};
 keyCarAimRight[]={1048577};
-keyCommandLeft[]={30,203};
-keyCommandRight[]={32,205};
-keyCommandForward[]={17,200};
-keyCommandBack[]={31,208};
-keyCommandFast[]={286457898};
-keyCommandSlow[]={286457885,487784465};
+keyCommandLeft[]={203};
+keyCommandRight[]={205};
+keyCommandForward[]={200};
+keyCommandBack[]={208};
+keyCommandFast[]={};
+keyCommandSlow[]={};
 keySwitchGunnerWeapon[]={487784481};
 keyVehLockTargets[]={19};
 keyVehLockEmptyTargets[]={};
@@ -601,8 +601,6 @@ activeKeys[]=
 	"BIS_co40_domination_4_74_blufor_HUD_v_02.tanoa_establishingShot",
 	"BIS_co40_domination_4_75_blufor_HUD_v_01.altis_establishingShot"
 };
-mouseSensitivityX=0.85000002;
-mouseSensitivityY=0.85000002;
 currentMPMission="EXP_m04";
 playedKeys[]=
 {
@@ -613,6 +611,8 @@ currentBattle="Missions";
 currentMission="BOOT_m01";
 headBob=0;
 floatingZoneArea=0;
+mouseSensitivityX=0.85000002;
+mouseSensitivityY=0.85000002;
 sceneComplexity=600000;
 shadowZDistance=200;
 viewDistance=4193.4897;
@@ -631,11 +631,7 @@ ppBrightness=1.01;
 ppContrast=1.0599999;
 ppSaturation=1.08;
 brightness=1;
-// default FOV
-// fovTop=0.75;
-// fovLeft=1.2;
-// 100 horizontal FOV
-fovTop=0.99;
+fovTop=0.99000001;
 fovLeft=1.59;
 uiTopLeftX=0.27083334;
 uiTopLeftY=0.22499999;

@@ -1,6 +1,15 @@
 ### Setup guide
 
-Put this repo to `/home/user/.steam/root/steamapps/compatdata/107410/pfx/drive_c/users/steamuser/Documents/Arma 3 - Other Profiles` on Linux or to `C:\Users\User\Documents\Arma 3 - Other Profiles` on Windows. Rename next directories and files to create proper new profile after cloning the repo:
+Put this repo here if on Linux:
+```zsh
+/home/user/.steam/root/steamapps/compatdata/107410/pfx/drive_c/users/steamuser/Documents/Arma 3 - Other Profiles
+```
+or here if on Windows:
+```zsh
+C:\Users\User\Documents\Arma 3 - Other Profiles
+```
+
+Rename next directories and files to create proper new profile after cloning the repo:
 1. Change parent directory name to your new profile name.
 2. Change `*` in `*.Arma3Profile` file to your new profile name.
 3. Change `*` in `*.vars.Arma3Profile` file to your new profile name.

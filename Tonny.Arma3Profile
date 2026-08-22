@@ -631,8 +631,11 @@ ppBrightness=1.01;
 ppContrast=1.0599999;
 ppSaturation=1.08;
 brightness=1;
-fovTop=0.75;
-fovLeft=1.2;
+// default FOV
+// fovTop=0.75;
+// fovLeft=1.2;
+fovTop=1.19;
+fovLeft=1.90;
 uiTopLeftX=0.27083334;
 uiTopLeftY=0.22499999;
 uiBottomRightX=0.72916663;

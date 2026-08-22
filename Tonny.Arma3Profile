@@ -634,8 +634,9 @@ brightness=1;
 // default FOV
 // fovTop=0.75;
 // fovLeft=1.2;
-fovTop=1.19;
-fovLeft=1.90;
+// 100 horizontal FOV
+fovTop=0.99;
+fovLeft=1.59;
 uiTopLeftX=0.27083334;
 uiTopLeftY=0.22499999;
 uiBottomRightX=0.72916663;

@@ -88,7 +88,7 @@ class Filter
 	battleyeRequired=0;
 	expansions=1;
 };
-lastMPMission="Invade & Annex | 77th JSOC";
+lastMPMission="Invade & Annex: Apex Edition";
 difficulty="Regular";
 customScheme=1;
 controller="Default";
@@ -614,7 +614,7 @@ mouseSensitivityY=0.85000002;
 headBob=0;
 floatingZoneArea=0;
 sceneComplexity=600000;
-shadowZDistance=200;
+shadowZDistance=50;
 viewDistance=4193.4897;
 preferredObjectViewDistance=2273.9893;
 pipViewDistance=2274;

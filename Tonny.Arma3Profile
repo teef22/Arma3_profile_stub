@@ -73,10 +73,10 @@ class wBrowserMP
 {
 };
 bootCampWarning=1;
-browsingSource="History";
+browsingSource="Internet";
 class Filter
 {
-	serverName="";
+	serverName="420";
 	missionType="";
 	missionName="";
 	maxPing=0;
@@ -88,7 +88,7 @@ class Filter
 	battleyeRequired=0;
 	expansions=1;
 };
-lastMPMission="Invade & Annex: Apex Edition";
+lastMPMission="BadCo Domination Altis";
 difficulty="Regular";
 customScheme=1;
 controller="Default";
@@ -139,7 +139,7 @@ keySwitchWeaponGrp2[]={3};
 keySwitchWeaponGrp3[]={4};
 keySwitchWeaponGrp4[]={5};
 keyFire[]={487653376};
-keyDefaultAction[]={65536};
+keyDefaultAction[]={65536,6};
 keyActionInMap[]={65536};
 keyThrow[]={34};
 keyCycleThrownItems[]={487784482};
@@ -169,8 +169,8 @@ keyMiniMap[]={};
 keyMiniMapToggle[]={-1659699150};
 keyShowMap[]={41,285};
 keyHideMap[]={41,285};
-keyUavView[]={15};
-keyUavViewToggle[]={271};
+keyUavView[]={};
+keyUavViewToggle[]={};
 keyDeployWeaponAuto[]={487784492};
 keyDeployWeaponManual[]={};
 keyHelp[]={35};
@@ -532,7 +532,7 @@ keyUser8[]={};
 keyUser9[]={};
 keyUser10[]={};
 keyUser11[]={};
-keyUser12[]={};
+keyUser12[]={76};
 keyUser13[]={};
 keyUser14[]={};
 keyUser15[]={};
@@ -609,10 +609,10 @@ playedKeys[]=
 currentCampaign="A3\Missions_F_Bootcamp\Campaign";
 currentBattle="Missions";
 currentMission="BOOT_m01";
-mouseSensitivityX=0.85000002;
-mouseSensitivityY=0.85000002;
 headBob=0;
 floatingZoneArea=0;
+mouseSensitivityX=0.85000002;
+mouseSensitivityY=0.85000002;
 sceneComplexity=600000;
 shadowZDistance=50;
 viewDistance=4193.4897;

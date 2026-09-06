@@ -73,7 +73,7 @@ class wBrowserMP
 {
 };
 bootCampWarning=1;
-browsingSource="Internet";
+browsingSource="History";
 class Filter
 {
 	serverName="420";
@@ -88,7 +88,7 @@ class Filter
 	battleyeRequired=0;
 	expansions=1;
 };
-lastMPMission="Invade & Annex | 77th JSOC";
+lastMPMission="Invade & Annex: Apex Edition";
 difficulty="Regular";
 customScheme=1;
 controller="Default";
@@ -549,7 +549,7 @@ class MainMap
 	class Compass
 	{
 		inBack=0;
-		position[]={-0.074371092,0.051470958,0.2};
+		position[]={-0.074371085,0.051470958,0.2};
 		positionBack[]={-0.034841605,-0.0030385945,0.1};
 	};
 };
@@ -584,6 +584,11 @@ FavoriteServers[]=
 	{
 		"91.100.101.163:3802",
 		2
+	},
+	
+	{
+		"51.81.185.36:2302",
+		2
 	}
 };
 battleyeLicense=1;
@@ -614,7 +619,7 @@ floatingZoneArea=0;
 mouseSensitivityX=0.85000002;
 mouseSensitivityY=0.85000002;
 sceneComplexity=600000;
-shadowZDistance=200;
+shadowZDistance=50;
 viewDistance=4193.4897;
 preferredObjectViewDistance=2273.9893;
 pipViewDistance=2274;
